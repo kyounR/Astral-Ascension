@@ -1,9 +1,9 @@
 {
-  "masterVersionFile": "https://github.com/kyounR/Astral-Ascension/Planetace_astralascension.version",
   "modName": "Planetace_AstralAscension",
   "modThreadId": 28273,
+  "masterVersionFile": "https://raw.githubusercontent.com/kyounR/Astral-Ascension/main/Planetace_astralascension.version",
+  "changelogURL": "https://raw.githubusercontent.com/kyounR/Astral-Ascension/refs/heads/main/changelog.txt",
   "directDownloadURL": "https://github.com/kyounR/Astral-Ascension/releases/download/1.2.8/Astral.Ascension.1.2.8.zip",
-  "starsectorVersion":"0.98a-RC8",
 
   "modVersion":
     {
