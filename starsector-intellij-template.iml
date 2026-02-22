@@ -7,25 +7,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="starfarer.api" level="project" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../LunaLib/jars/LunaLib.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../Terraforming and Station Construction/jar/BoggledTerraformingAndStationConstruction.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" exported="" name="starfarer.api" level="project" />
+    <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" exported="" name="commons-compiler-jdk" level="application" />
+    <orderEntry type="library" exported="" name="LazyLib-Kotlin" level="application" />
+    <orderEntry type="library" exported="" name="javadoc" level="application" />
+    <orderEntry type="library" exported="" name="Graphics" level="application" />
+    <orderEntry type="library" exported="" name="ExerelinCore" level="project" />
+    <orderEntry type="library" exported="" name="BoggledTerraformingAndStationConstruction" level="project" />
+    <orderEntry type="library" exported="" name="LunaLib" level="project" />
+    <orderEntry type="library" exported="" name="fuzzywuzzy-1.3.0" level="project" />
   </component>
 </module>
